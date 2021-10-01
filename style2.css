@@ -1,0 +1,60 @@
+body{
+    background-color: grey;
+}
+
+
+.h1, .h2, .h3, .h4 ,.h5, .h6, .h7, .h8, .h9{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: medium;
+    color: white;
+    text-decoration: rgb(243, 248, 248) ;
+    text-rendering: auto;
+    border-radius: 200px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+}
+
+a:visited{
+    color: green;
+}
+
+.sign{
+    text-align: right;
+}
+
+.sign{
+    position: fixed;
+}
+
+.t1{
+    margin: left;
+    border: 2px white solid;
+    border-width: 1px solid;
+    padding: 15px;
+}
+
+.c1 LI{
+    padding-bottom: 3px;
+}
+
+.t1 th, td{
+    border: rgb(8, 8, 8) 2px solid;
+}
+
+
+.a1{
+    text-align: left;
+}
+.l{
+    text-align: left;
+}
+.p{
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+h1{
+    color:rgb(88, 85, 66);
+}
+body{
+    background-color: rgb(249, 248, 250);
+    text-decoration-color: honeydew;
+    color: rgb(165, 184, 144);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font: 600 20px Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+}
+
+a:visited{
+    color: green;
+}
+
+
+.box-1{
+    background-color: rgb(10, 10, 4); 
+    color: lightseagreen;
+}
+
+p{
+    margin: 50px 200px 20px 300px;
+}
